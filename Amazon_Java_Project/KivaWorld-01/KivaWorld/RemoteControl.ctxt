@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RemoteControl
+comment0.text=\r\n\ This\ is\ the\ class\ that\ controls\ Kiva's\ actions.\ Implement\ the\ <code>run()</code>\r\n\ method\ to\ deliver\ the\ pod\ and\ avoid\ the\ obstacles.\r\n\ \r\n\ @see\ Kiva\r\n\ @see\ KivaCommand\r\n
+comment1.params=
+comment1.target=RemoteControl()
+comment2.params=userCommands
+comment2.target=KivaCommand[]\ convertToKivaCommands(java.lang.String)
+comment2.text=\r\n\ Converts\ the\ string\ of\ characters\ (representing\ the\ directionKeys)\r\n\ into\ an\ array\ of\ KivaCommands.\r\n\ @param\ userCommands\ The\ string\ the\ user\ input.\ \r\n\ This\ string\ represents\ the\ list\ of\ directionKeys\ that\r\n\ will\ be\ used\ to\ find\ the\ correlated\ KivaCommands\ and\ added\ to\ the\ \r\n\ KivaCommands\ array.\r\n\ @return\ An\ array\ of\ KivaCommands\ that\ will\ be\ iterated\ over\ in\ the\r\n\ <code>run()</code>\ method.\r\n
+comment3.params=
+comment3.target=void\ run()
+comment3.text=\r\n\ The\ controller\ that\ directs\ Kiva's\ activity.\ \r\n\ Prompts\ the\ user\ for\ the\ floor\ map\r\n\ to\ load,\ displays\ the\ map,\ and\ asks\ the\ user\ for\ \r\n\ the\ commands\ for\ Kiva\ to\ execute.\r\n\ Calls\ the\ <code>convertToKivaCommands(String\ userCommands)</code>\ \r\n\ method\ to\ convert\ the\ user\ input\ into\ an\ array\ of\ KivaCommands\ and\r\n\ executes\ them.\r\n
+numComments=4

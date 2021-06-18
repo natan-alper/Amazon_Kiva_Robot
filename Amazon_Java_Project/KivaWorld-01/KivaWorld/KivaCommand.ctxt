@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=KivaCommand
+comment0.text=\r\n\ The\ KivaCommand\ enum\ contains\ the\ list\ of\ commands\ that\ a\ Kiva\ object\ \r\n\ can\ perform.\r\n\ Each\ command\ is\ associated\ with\ a\ char-valued\ direction\ key.\r\n\ \r\n\ @see\ Kiva\r\n\ @author\ Natan\ Alper\ \r\n\ @version\ 4/25/2021\r\n
+comment1.params=directionKey
+comment1.target=KivaCommand(char)
+comment2.params=
+comment2.target=char\ getDirectionKey()
+comment2.text=\r\n\ Returns\ the\ unique\ char\ associated\ with\ its\ KivaCommand.\r\n\ @return\ The\ direction\ key\ (char)\ of\ the\ given\ KivaCommand.\r\n\ Direction\ Keys\:\ 'F','L','R','T','D'.\r\n
+numComments=3

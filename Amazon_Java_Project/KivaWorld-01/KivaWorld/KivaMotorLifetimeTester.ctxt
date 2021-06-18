@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=KivaMotorLifetimeTester
+comment0.text=\r\n\ A\ single\ scenario\ to\ test\ if\ the\ motorLifeTime\ variable\ in\ the\ \r\n\ Kiva\ class\ is\ keeping\ track\ of\ the\ motor\ life\ of\ the\ Kiva\ robot.\r\n\ The\ motor\ life\ of\ the\ robot\ is\ measured\ in\ milliseconds.\r\n\ \r\n\ @see\ Kiva\r\n\ @see\ KivaCommand\r\n\ @author\ Natan\ Alper\r\n\ @version\ 4/29/2021\r\n
+comment1.params=
+comment1.target=void\ tester()
+numComments=2

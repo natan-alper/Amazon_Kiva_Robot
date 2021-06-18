@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=KivaConstructorTest
+comment0.text=\r\n\ Test\ 1-argument\ and\ 2-argument\ constructors\ of\ the\ Kiva\ class\r\n\ and\ ensure\ output/functionality\ is\ as\ expected.\r\n\ \r\n\ @see\ Kiva\ \r\n\ @see\ KivaCommand\r\n\ @author\ Natan\ Alper\r\n\ @version\ 4/26/2021\r\n
+comment1.params=
+comment1.target=void\ testSingleArgumentConstructor()
+comment2.params=a\ b
+comment2.target=boolean\ sameLocation(edu.duke.Point,\ edu.duke.Point)
+comment3.params=
+comment3.target=void\ testTwoArgumentConstructor()
+numComments=4

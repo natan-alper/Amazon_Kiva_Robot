@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RemoteControlTest
+comment0.text=\r\n\ Miscellaneous\ tests\ for\ RemoteControl\ class.\r\n\ \r\n\ @see\ RemoteControl\r\n\ @author\ Natan\ Alper\r\n\ @version\ 2021/5/2\r\n
+comment1.params=
+comment1.target=void\ testConvertToKivaCommands()
+comment1.text=\r\n\ Tests\ if\ convertToKivaCommands\ is\ able\ to\ convert\ a\ string\ of\ character\r\n\ commands\ (string\ of\ direction\ keys)\ into\ KivaCommands.\r\n
+numComments=2
